@@ -5,7 +5,8 @@ Feature: Desktop page
 @test
   Scenario: User should able to navigate Desktop page
 
-    Given user is on homepage
-    When user click on computers
-    And select desktop
-    Then user should able to navigate Desktop page
+  Given user is on homepage on nopcommerce website
+  When user clicks on computers category
+  And user clicks on desktop category
+  Then user should be navigate to desktop page successfully
+

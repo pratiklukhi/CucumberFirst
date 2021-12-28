@@ -5,8 +5,8 @@ Feature: Refer a friend
   @test
   Scenario: Registered user should able to refer a friend
 
-    Given user is already registered
-    When user is on homepage
+    Given user is already registered successfully page
+    When user click on continue button on the Register successfully page
     And select a AppleMacBook product
     And click on Email a friend
     Then user should able to refer a friend successfully

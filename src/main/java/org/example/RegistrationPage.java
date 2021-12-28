@@ -25,9 +25,9 @@ public class RegistrationPage extends HomePage {
         typeText(_lastName, loadProp.getProperty("lastName"));
 
         // Type date of birth
-        //Select day from dropdown
-        Select selectDay = new Select(driver.findElement(By.name("DateOfBirthDay")));
-        selectDay.selectByVisibleText("18");
+            //Select day from dropdown
+            Select selectDay = new Select(driver.findElement(By.name("DateOfBirthDay")));
+            selectDay.selectByVisibleText("18");
 
         // Select month from dropdown
         Select selectMonth = new Select(driver.findElement(By.name("DateOfBirthMonth")));

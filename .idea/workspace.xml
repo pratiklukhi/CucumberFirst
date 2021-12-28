@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ae929c4-89e7-4205-ad75-00aafd18a55f" name="Changes" comment="" />
+    <list default="true" id="9ae929c4-89e7-4205-ad75-00aafd18a55f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BuildYourOwnComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CategoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CheckOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ConfirmOrderPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Facebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NewOnlineStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OrderConfirmSuccessPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PaymentInformationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PaymentMethodPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ShippingMethodPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Feature/buidYourOwnComputer.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Feature/category.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Feature/facebook.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Feature/newStoreOpen.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Feature/subCategory.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Feature/vote.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BrowserManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BrowserManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/NewCommentResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NewCommentResultPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RegistrationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Feature/desktop.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Feature/desktop.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Feature/referAFriend.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Feature/referAFriend.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestConfig/TestData.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestConfig/TestData.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/MyStepDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/MyStepDefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/BrowserManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/BrowserManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/NewCommentResultPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/NewCommentResultPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/MyStepDefs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/MyStepDefs.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +50,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="22BV2FvTT4HdRDvui3KCIUP38UY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,7 +61,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/example" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/CucumberAndGherkinProject-master" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -43,16 +79,16 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: User should able to register successfully">
-    <configuration name="Scenario: Registered user should able to refer a friend" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Cucumber Java.Scenario: As a user, i Should Able to navigate to subcategory pages">
+    <configuration name="Scenario: As a user, i Should Able to navigate to subcategory pages" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Feature/referAFriend.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Feature/subCategory.feature" />
       <option name="GLUE" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="CucumberFirst" />
-      <option name="NAME_FILTER" value="^Registered user should able to refer a friend$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Registered user should able to refer a friend$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Registered user should able to refer a friend" />
+      <option name="NAME_FILTER" value="^As a user\, i Should Able to navigate to subcategory pages$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^As a user\, i Should Able to navigate to subcategory pages$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: As a user, i Should Able to navigate to subcategory pages" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -64,14 +100,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: User should able to register successfully" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: User should able to add comments" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Feature/register.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Feature/newsDetails.feature" />
+      <option name="GLUE" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="CucumberFirst" />
-      <option name="NAME_FILTER" value="^User should able to register successfully$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User should able to register successfully$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: User should able to register successfully" />
+      <option name="NAME_FILTER" value="^User should able to add comments$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User should able to add comments$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User should able to add comments" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -83,26 +120,73 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunCuke" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: User should able to navigate facebook page url including of DemoNopeCommerce" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Feature/facebook.feature" />
+      <option name="GLUE" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="CucumberFirst" />
+      <option name="NAME_FILTER" value="^User should able to navigate facebook page url including of DemoNopeCommerce$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User should able to navigate facebook page url including of DemoNopeCommerce$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User should able to navigate facebook page url including of DemoNopeCommerce" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.RunCuke" />
-      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User should able to see title,subtitle and comment successfully" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Feature/newStoreOpen.feature" />
+      <option name="GLUE" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberFirst" />
+      <option name="NAME_FILTER" value="^User should able to see title\,subtitle and comment successfully$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User should able to see title\,subtitle and comment successfully$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User should able to see title,subtitle and comment successfully" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User should able to successfully checkout of Build your own computer with specific requirements." type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Feature/buidYourOwnComputer.feature" />
+      <option name="GLUE" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberFirst" />
+      <option name="NAME_FILTER" value="^User should able to successfully checkout of Build your own computer with specific requirements\.$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User should able to successfully checkout of Build your own computer with specific requirements\.$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User should able to successfully checkout of Build your own computer with specific requirements." />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber Java.Scenario: User should able to register successfully" />
-        <item itemvalue="JUnit.RunCuke" />
-        <item itemvalue="Cucumber Java.Scenario: Registered user should able to refer a friend" />
+        <item itemvalue="Cucumber Java.Scenario: As a user, i Should Able to navigate to subcategory pages" />
+        <item itemvalue="Cucumber Java.Scenario: User should able to see title,subtitle and comment successfully" />
+        <item itemvalue="Cucumber Java.Scenario: User should able to add comments" />
+        <item itemvalue="Cucumber Java.Scenario: User should able to navigate facebook page url including of DemoNopeCommerce" />
+        <item itemvalue="Cucumber Java.Scenario: User should able to successfully checkout of Build your own computer with specific requirements." />
       </list>
     </recent_temporary>
   </component>
@@ -116,5 +200,17 @@
       <updated>1639310760923</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

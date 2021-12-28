@@ -23,7 +23,7 @@ import org.openqa.selenium.TakesScreenshot;
                         .getScreenshotAs(OutputType.BYTES);
                 scenario.attach(screenshot, "image/png", "My screenshot"); //stick it in the report
             }
-            browserManager.closeBrowser();
+           browserManager.closeBrowser();
         }
 
     }

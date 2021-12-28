@@ -19,7 +19,7 @@ LoadProp loadProp = new LoadProp();
     }
 
     public void closeBrowser(){
-        driver.close();
+       // driver.close();
     }
 
 }
